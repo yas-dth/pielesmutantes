@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sparl",
+    "imagen": "Personaje1.png",
+    "descripcion": "Texto descriptivo del personaje 1.",
+    "alt": "Conejo caracol"
+  },
+  {
+    "id": 2,
+    "nombre": "Krumi",
+    "imagen": "Personaje2.png",
+    "descripcion": "Texto descriptivo del personaje 2.",
+    "alt": "Elefante mariposa"
+  },
+  {
+    "id": 3,
+    "nombre": "Gelk",
+    "imagen": "Personaje3.png",
+    "descripcion": "Texto descriptivo del personaje 3.",
+    "alt": "Foca gato"
+  },
+  {
+    "id": 4,
+    "nombre": "Zarplu",
+    "imagen": "Personaje4.png",
+    "descripcion": "Texto descriptivo del personaje 4.",
+    "alt": "Tigre pájaro"
+  },
+  {
+    "id": 5,
+    "nombre": "Talok",
+    "imagen": "Personaje5.png",
+    "descripcion": "Texto descriptivo del personaje 5.",
+    "alt": "Lagarto águila"
+  },
+  {
+    "id": 6,
+    "nombre": "Oktar",
+    "imagen": "Personaje6.png",
+    "descripcion": "Texto descriptivo del personaje 6.",
+    "alt": "Pulpo lobo"
+  }
+]
